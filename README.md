@@ -1,2 +1,3 @@
 # Algorithms
-MIPT Algorithms Course
+MIPT algorithms course of the first year of study
+
