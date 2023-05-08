@@ -1,0 +1,11 @@
+Number of lines: 5
+Random mas after sort:
+(33, 34)
+(91, 105)
+(77, 117)
+(64, 126)
+(43, 135)
+Optimize:
+(33, 34)
+(91, 105)
+The whole number is 2
